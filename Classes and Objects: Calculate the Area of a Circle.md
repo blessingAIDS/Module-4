@@ -27,3 +27,4 @@ ci.mech(r)
 ![image](https://github.com/user-attachments/assets/c3a4faee-8629-4b34-af04-b0269f2feed1)
 
 ## Result
+Thus the program that calculates the area of a circle based on the radius provided by the user is executed successfully.
